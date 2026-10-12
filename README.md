@@ -17,3 +17,7 @@
 
 任何问题可联系我
 击水飞舟 公众号
+
+<p align="center">
+<img src="qq群发.png" alt="图" width="500">
+</p>
