@@ -10,7 +10,7 @@
 5. 可定时发送
 6. 操作简单，一键安装发送
 
-二. 安装 (只支持windows)
+二. 安装 (只支持windows) realse 里安装包
 1. 电脑安装QQ
 2. 项目里 NapCa.zip 加压到 %USERPROFILE%\NapCat\ 目录下
 3. 启动 QQ群发.exe
