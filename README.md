@@ -15,7 +15,7 @@
 2. 项目里 NapCa.zip 加压到 %USERPROFILE%\NapCat\ 目录下
 3. 启动 QQ群发.exe
 
-任何问题可联系我
+任何问题可联系我(免费获取key)
 击水飞舟 公众号
 
 <p align="center">
