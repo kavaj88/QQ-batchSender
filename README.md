@@ -11,13 +11,5 @@
 6. 操作简单，一键安装发送
 
 二. 安装 (只支持windows) realse 里安装包
-1. 电脑安装QQ
-2. 项目里 NapCa.zip 加压到 %USERPROFILE%\NapCat\ 目录下
-3. 启动 QQ群发.exe
-
-任何问题可联系我(免费获取key)
-击水飞舟 公众号
-
-<p align="center">
-<img src="qq群发.png" alt="图" width="500">
-</p>
+1. 电脑安装QQ并登录你的QQ
+2. 下载安装包 双击 QQ群发.exe 直接启动即可
